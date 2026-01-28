@@ -1,9 +1,9 @@
 
- 🎭 Sentiment Analysis on IMDB Movie Reviews
+ ## Sentiment Analysis on IMDB Movie Reviews
 
 This project demonstrates how to build a Sentiment Analysis model that can classify IMDB movie reviews as Positive or Negative. It combines NLP preprocessing techniques with Machine Learning (Logistic Regression) to achieve a solid baseline for text classification tasks.
 
-📌 Project Overview
+### Project Overview
 
 Movie reviews are a great source of unstructured data that reflect human opinions. The goal of this project is to:
 
